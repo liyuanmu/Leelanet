@@ -1,0 +1,11 @@
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\bin\Debug\Leelanet.exe
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\bin\Debug\Leelanet.pdb
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\obj\Debug\Leelanet.csprojAssemblyReference.cache
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\obj\Debug\Leelanet.Properties.Resources.resources
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\obj\Debug\Leelanet.csproj.GenerateResource.cache
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\obj\Debug\Leelanet.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\obj\Debug\Leelanet.exe
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\obj\Debug\Leelanet.pdb
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\bin\Debug\Leelanet.exe.config
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\obj\Debug\Leelanet.Resource.resources
+D:\WorkSpace\Dotnet.workspace\Leelanet\Leelanet\obj\Debug\Leelanet.frmMain.resources
